@@ -1,0 +1,17 @@
+img{
+    display: block;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+body{
+    margin: 100px;
+}
+div{
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 200px;
+    background-color: beige;
+}
